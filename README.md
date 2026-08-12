@@ -4,7 +4,7 @@ Bu klasör GitHub Pages üzerinde ücretsiz yayınlanmaya hazırdır.
 
 ## Profil fotoğrafını ekleme
 
-Yüklenen fotoğraf sohbet aktarımında dosya olarak bulunamadığı için sayfa şu anda “SD” yer tutucusunu gösterir. Fotoğrafı `profil.jpg` adıyla ana klasöre ekleyin. Kare veya dikey bir fotoğraf uygundur; sayfa görseli otomatik olarak daire biçiminde kırpar.
+Profil fotoğrafı `profil.png` dosyasında bulunur. Yeni bir fotoğraf kullanmak için aynı adlı dosyayı değiştirebilirsiniz. Kare veya dikey bir fotoğraf uygundur; sayfa görseli otomatik olarak daire biçiminde kırpar.
 
 ## Ücretsiz yayınlama
 
